@@ -1,0 +1,174 @@
+[
+  {
+    "timestamp": "2025-11-25T15:56:10.020528",
+    "tests": {
+      "Core Features": {
+        "passed": 2,
+        "failed": 0,
+        "time": 0.002000093460083008,
+        "status": "pass"
+      },
+      "Advanced Evasion": {
+        "passed": 2,
+        "failed": 0,
+        "time": 0.010083198547363281,
+        "status": "pass"
+      },
+      "Anti-Analysis": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.059212684631347656,
+        "status": "pass"
+      },
+      "Injection": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.001476287841796875,
+        "status": "pass"
+      },
+      "Persistence": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.001004934310913086,
+        "status": "pass"
+      },
+      "Fileless": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0009999275207519531,
+        "status": "pass"
+      },
+      "C2": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0,
+        "status": "pass"
+      },
+      "Obfuscation": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0009989738464355469,
+        "status": "pass"
+      },
+      "Variants": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.001001119613647461,
+        "status": "pass"
+      },
+      "Cryptography": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.1372528076171875,
+        "status": "pass"
+      },
+      "Exploits": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0031027793884277344,
+        "status": "pass"
+      },
+      "Performance": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.018217086791992188,
+        "status": "pass"
+      }
+    },
+    "metrics": {
+      "total_tests": 14,
+      "passed": 14,
+      "failed": 0,
+      "success_rate": 100.0,
+      "total_time": 0.2353498935699463,
+      "avg_time_per_test": 0.016810706683567593
+    },
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-11-25T16:00:12.748230",
+    "tests": {
+      "Core Features": {
+        "passed": 2,
+        "failed": 0,
+        "time": 0.0019991397857666016,
+        "status": "pass"
+      },
+      "Advanced Evasion": {
+        "passed": 2,
+        "failed": 0,
+        "time": 0.003503561019897461,
+        "status": "pass"
+      },
+      "Anti-Analysis": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.056684255599975586,
+        "status": "pass"
+      },
+      "Injection": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0010013580322265625,
+        "status": "pass"
+      },
+      "Persistence": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0,
+        "status": "pass"
+      },
+      "Fileless": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0,
+        "status": "pass"
+      },
+      "C2": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0015037059783935547,
+        "status": "pass"
+      },
+      "Obfuscation": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0,
+        "status": "pass"
+      },
+      "Variants": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.001527547836303711,
+        "status": "pass"
+      },
+      "Cryptography": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.010529041290283203,
+        "status": "pass"
+      },
+      "Exploits": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.0015459060668945312,
+        "status": "pass"
+      },
+      "Performance": {
+        "passed": 1,
+        "failed": 0,
+        "time": 0.017303466796875,
+        "status": "pass"
+      }
+    },
+    "metrics": {
+      "total_tests": 14,
+      "passed": 14,
+      "failed": 0,
+      "success_rate": 100.0,
+      "total_time": 0.09967732429504395,
+      "avg_time_per_test": 0.007119808878217425
+    },
+    "status": "success"
+  }
+]
