@@ -1,0 +1,42 @@
+[
+  {
+    "lhost": "192.168.1.10",
+    "lport": 4444,
+    "target_os": "windows",
+    "obfuscate": true,
+    "obfuscation_level": 3,
+    "description": "Windows payload - Medium obfuscation"
+  },
+  {
+    "lhost": "192.168.1.10",
+    "lport": 4445,
+    "target_os": "windows",
+    "obfuscate": true,
+    "obfuscation_level": 5,
+    "description": "Windows payload - High obfuscation"
+  },
+  {
+    "lhost": "192.168.1.10",
+    "lport": 4446,
+    "target_os": "linux",
+    "obfuscate": true,
+    "obfuscation_level": 3,
+    "description": "Linux payload - Medium obfuscation"
+  },
+  {
+    "lhost": "192.168.1.10",
+    "lport": 4447,
+    "target_os": "linux",
+    "obfuscate": true,
+    "obfuscation_level": 5,
+    "description": "Linux payload - High obfuscation"
+  },
+  {
+    "lhost": "192.168.1.10",
+    "lport": 4448,
+    "target_os": "android",
+    "obfuscate": true,
+    "obfuscation_level": 4,
+    "description": "Android payload - High obfuscation"
+  }
+]
